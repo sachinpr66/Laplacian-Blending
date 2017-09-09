@@ -1,2 +1,2 @@
 # Laplacian-Blending
-This is a part of Online course in EDX called Robotic vision Intelligence and Machine Learning
+Laplacian blending is an algorithm that can be used to blend two different Images.
